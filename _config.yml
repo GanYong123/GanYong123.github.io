@@ -1,11 +1,11 @@
 # Site settings
-title: GanYong Blog
-SEOTitle: 甘永的博客 | GanYong Blog
+title: YangZhiyuan Blog
+SEOTitle: 杨致远的博客 | YangZhiyuan Blog
 header-img: img/post-bg-desk.jpg    #主页上面的图片
-email: myganyong123@sina.com
+email: yang3781590@163.com
 description: "Every failure is leading towards success."
-keyword: "GanYong, Change the World"
-url: "GanYong123.github.io"          # your host, for absolute URL
+keyword: "YangZhiyuan, Change the World"
+url: "yzy1996.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "" # you code repository
 
@@ -19,9 +19,9 @@ sidebar-avatar: /img/my-photo.jpg      # 你的头像
 # SNS settings   你的社交链接
 RSS: false
 # weibo_username:     
-zhihu_username:     
-github_username:    GanYong123
-jianshu_username:   
+zhihu_username:     yzy_1996
+github_username:    yzy1996
+jianshu_username:   1b9f1b107a11
 #twitter_username:   
 
 
