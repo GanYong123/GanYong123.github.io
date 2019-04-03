@@ -11,15 +11,15 @@ github_repo: "" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Change the World!"
+sidebar-about-description: "欢迎来到德莱...额...我的博客~"
 sidebar-avatar: /img/my-photo.jpg      # 你的头像
 
 
 
 # SNS settings   你的社交链接
 RSS: false
-# weibo_username:     
-# zhihu_username:    
+weibo_username:   https://weibo.com/p/1005056233310749/home?from=page_100505&mod=TAB&is_all=1#place  
+zhihu_username:   https://www.zhihu.com/people/wu-feng-ye-yao-lang-54/answers 
 # github_username:   
 # jianshu_username:   
 #twitter_username:   
