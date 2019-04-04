@@ -61,13 +61,13 @@ disqus_username: GanYong
 
 # Gitalk
 gitalk:
-enable: true    #是否开启Gitalk评论
-clientID: d6598db8fe476a4a322b                            #生成的clientID
-clientSecret: a6340848931ff511e82a1a0ce0c890ede133c13d    #生成的clientSecret
-repo: GanYong123.github.io    #仓库名称
-owner: GanYong123    #github用户名
-admin: GanYong123
-distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  enable: true    #是否开启Gitalk评论
+  clientID: d6598db8fe476a4a322b                            #生成的clientID
+  clientSecret: a6340848931ff511e82a1a0ce0c890ede133c13d    #生成的clientSecret
+  repo: GanYong123.github.io    #仓库名称
+  owner: GanYong123    #github用户名
+  admin: GanYong123
+  distractionFreeMode: true #是否启用类似FB的阴影遮罩
 
 
 # 统计
